@@ -1,0 +1,37 @@
+[
+    {
+        "path": "K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog",
+        "type": "directory",
+        "size": 2580
+    },
+    {
+        "path": "K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog\\file_1",
+        "type": "file",
+        "size": 220
+    },
+    {
+        "path": "K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog\\file_2",
+        "type": "directory",
+        "size": 1400
+    },
+    {
+        "path": "K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog\\file_2\\file_2",
+        "type": "file",
+        "size": 1400
+    },
+    {
+        "path": "K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog\\file_3",
+        "type": "directory",
+        "size": 960
+    },
+    {
+        "path": "K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog\\file_3\\file_3",
+        "type": "file",
+        "size": 520
+    },
+    {
+        "path": "K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog\\file_3\\file_4",
+        "type": "file",
+        "size": 440
+    }
+]

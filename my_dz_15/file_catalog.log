@@ -1,0 +1,7 @@
+INFO     - 2023-12-12 03:49:18,814, WorkStatus(obj_name='file_catalog', extension=None, is_catalog=True, parent_catalog='K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15')
+INFO     - 2023-12-12 03:49:18,814, WorkStatus(obj_name='file_1', extension=None, is_catalog=False, parent_catalog='K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog')
+INFO     - 2023-12-12 03:49:18,814, WorkStatus(obj_name='file_2', extension=None, is_catalog=True, parent_catalog='K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog')
+INFO     - 2023-12-12 03:49:18,814, WorkStatus(obj_name='file_2', extension=None, is_catalog=False, parent_catalog='K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog\\file_2')
+INFO     - 2023-12-12 03:49:18,815, WorkStatus(obj_name='file_3', extension=None, is_catalog=True, parent_catalog='K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog')
+INFO     - 2023-12-12 03:49:18,815, WorkStatus(obj_name='file_3', extension=None, is_catalog=False, parent_catalog='K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog\\file_3')
+INFO     - 2023-12-12 03:49:18,815, WorkStatus(obj_name='file_4', extension=None, is_catalog=False, parent_catalog='K:\\Python\\Python_Special\\Python_Special_Sam\\PSSaminar3\\PS\\my_dz_15\\file_catalog\\file_3')
